@@ -1,0 +1,10 @@
+This is a list of "tricks" I've had to figure out especially when it comes to keyboard keys having different formats etc.
+
+Spacebar = crt.Screen.Sendkeys(" ")
+Backspace = crt.Screen.Sendkeys
+Print Screen = PRTSCRN
+
+
+HOW THE F&%K DO DATES WORK
+
+This bothers me a lot as someone trying to program. Figuring out dates fucking SUCK. Luckily for us, you can do a few tricks here and there to get things such as yesterday's date, tomorrow's date, the first date of the month, last date of the month etc.
