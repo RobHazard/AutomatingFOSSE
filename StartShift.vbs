@@ -6,4 +6,7 @@
 'F8 to get into the menu, then pause for 100 milliseconds to give it time.
       crt.Screen.Sendkeys("{F8}")
       crt.Sleep 100
-
+      crt.Screen.Sendkeys("R")
+      crt.Sleep 100
+      crt.Screen.Sendkeys("V")
+      crt.Sleep 100
